@@ -1,0 +1,3 @@
+[submodule "/home/fivem/FXServer/server-data"]
+	path = /home/fivem/FXServer/server-data
+	url = https://github.com/citizenfx/cfx-server-data.git
